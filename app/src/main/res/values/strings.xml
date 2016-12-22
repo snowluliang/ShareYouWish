@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShareYouWish</string>
+    <string name="to_somebody">ShareYouWish</string>
+    <string name="from_me">FROM:</string>
+    <string name="photo">图库</string>
+    <string name="camera">相机</string>
+    <string name="menu_share">分享</string>
+</resources>
